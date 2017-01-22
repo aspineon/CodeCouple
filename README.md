@@ -1,7 +1,7 @@
 # CodeCouple
 All CodeCouple examples
 
-sss
+
 [Visit blog](http://codecouple.pl)
 
 ## Examples
