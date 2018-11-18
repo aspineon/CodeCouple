@@ -12,3 +12,4 @@ All CodeCouple examples
 - [Function interface example](https://github.com/kchrusciel/CodeCouple/tree/master/FunctionalInterface/)
 - [Solr autocomplete example](https://github.com/kchrusciel/CodeCouple/tree/master/SolrAutocomplete)
 - [JUnit5 example](https://github.com/kchrusciel/CodeCouple/tree/master/JUnit5/)
+- [ThreadState](https://github.com/kchrusciel/CodeCouple/tree/master/ThreadState)
