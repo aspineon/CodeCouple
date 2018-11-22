@@ -8,6 +8,7 @@ All CodeCouple examples
 - [Clock Test](https://github.com/kchrusciel/CodeCouple/tree/master/ClockTest)
 - [CountDownLatch](https://github.com/kchrusciel/CodeCouple/tree/master/CountDownLatch)
 - [CyclicBarrier](https://github.com/kchrusciel/CodeCouple/tree/master/CyclicBarrier)
+- [DaemonThread](https://github.com/kchrusciel/CodeCouple/tree/master/DaemonThread)
 - [Exchanger](https://github.com/kchrusciel/CodeCouple/tree/master/Exchanger)
 - [Optional example](https://github.com/kchrusciel/CodeCouple/tree/master/Optional/)
 - [Function interface example](https://github.com/kchrusciel/CodeCouple/tree/master/FunctionalInterface/)
