@@ -11,6 +11,10 @@ class ExchangerTest {
 
     @Test
     void shouldExchangeValuesBetweenThreads() throws InterruptedException {
+
+        System.out.println(Byte.TYPE.isInstance(((byte)((byte)1 + (byte)2))));
+
+
         // Given
         Exchanger<String> exchanger = new Exchanger<>();
 
