@@ -25,10 +25,10 @@ class ExchangerTest {
         firstJob.start();
         secondJob.start();
 
-        // Then
         firstJob.join();
         secondJob.join();
-
+        
+        // Then
         assertThat(firstJob.getExchangedValue()).isEqualTo("second");
         assertThat(secondJob.getExchangedValue()).isEqualTo("first");
     }
