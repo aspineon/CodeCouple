@@ -5,6 +5,7 @@ All CodeCouple examples
 [Visit blog](http://codecouple.pl)
 
 ## Examples
+- [Class Loader](https://github.com/kchrusciel/CodeCouple/tree/master/ClassLoader)
 - [Clock Test](https://github.com/kchrusciel/CodeCouple/tree/master/ClockTest)
 - [CountDownLatch](https://github.com/kchrusciel/CodeCouple/tree/master/CountDownLatch)
 - [CyclicBarrier](https://github.com/kchrusciel/CodeCouple/tree/master/CyclicBarrier)
