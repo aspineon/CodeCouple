@@ -9,6 +9,7 @@ All CodeCouple examples
 - [CountDownLatch](https://github.com/kchrusciel/CodeCouple/tree/master/CountDownLatch)
 - [CyclicBarrier](https://github.com/kchrusciel/CodeCouple/tree/master/CyclicBarrier)
 - [DaemonThread](https://github.com/kchrusciel/CodeCouple/tree/master/DaemonThread)
+- [Default ClassLoader](https://github.com/kchrusciel/CodeCouple/tree/master/DefaultClassLoader)
 - [Exchanger](https://github.com/kchrusciel/CodeCouple/tree/master/Exchanger)
 - [Functional Interface](https://github.com/kchrusciel/CodeCouple/tree/master/FunctionalInterface/)
 - [JavaObjectLayout](https://github.com/kchrusciel/CodeCouple/tree/master/JavaObjectLayout)

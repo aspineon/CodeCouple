@@ -76,3 +76,4 @@ class IntNumber {
         this.value = value;
     }
 }
+

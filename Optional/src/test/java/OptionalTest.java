@@ -1,3 +1,4 @@
+import jdk.nashorn.tools.Shell;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
 import org.mockito.Mockito;
@@ -138,6 +139,13 @@ class OptionalTest {
 
         // Then
         assertThrows(IllegalStateException.class, optionalWhichThrowException);
+    }
+
+    @Test
+    void dupa() {
+        System.out.println(String.class.getClassLoader());
+        System.out.println(Shell.class.getClassLoader());
+        System.out.println(MyClass.class.getClassLoader());
     }
 
 
